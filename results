@@ -1,0 +1,39 @@
+Position of 0 :
+        0
+   3.0000
+   2.0000
+
+Velocity of 0 :
+        0
+        0
+        0
+
+Acceleration of 0 :
+[matrix size: 0x1]
+
+Position of 1 :
+   2.0000
+   3.0000
+   4.0000
+
+Velocity of 1 :
+        0
+   1.0000
+        0
+
+Acceleration of 1 :
+[matrix size: 0x1]
+
+Position of 2 :
+   5.0000
+   3.0000
+   5.0000
+
+Velocity of 2 :
+        0
+   1.0000
+   1.0000
+
+Acceleration of 2 :
+[matrix size: 0x1]
+

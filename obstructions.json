@@ -1,0 +1,17 @@
+{
+	"count": 3,
+	"obstructions": [
+		{
+			"id": 1,
+			"position": [12, 13, 14]
+		},
+		{
+			"id": 2,
+			"position": [2, 13, 14]
+		},
+		{
+			"id": 3,
+			"position": [5, 13, 14]
+		}
+	]
+}
